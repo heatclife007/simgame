@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Crypto Trading Simulator",
+  "description": "A gamified crypto trading simulation app with real-time style charts, quests, leaderboards, and an AI-powered trade assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
